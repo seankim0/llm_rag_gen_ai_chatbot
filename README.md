@@ -19,7 +19,7 @@ Here’s how the app processes your PDFs and generates responses:
 
 ### System Architecture
 
-![AI ChatBot App Diagram]((https://github.com/seankim0/llm_rag_gen_ai_chatbot/blob/main/doc/PDF-LangChain.jpg))
+![AI ChatBot App Diagram]((https://raw.githubusercontent.com/seankim0/llm_rag_gen_ai_chatbot/blob/main/doc/PDF-LangChain.jpg))
 
 Or take a look at the LangChain + RAG pipeline below:
 
