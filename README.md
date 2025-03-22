@@ -23,7 +23,7 @@ Here’s how the app processes your PDFs and generates responses:
 
 Or take a look at the LangChain + RAG pipeline below:
 
-![LangChain Workflow](attachment:811990aa-5094-4947-97b2-d0aac4deafcd:image.png)
+![RAG Architecture](https://raw.githubusercontent.com/seankim0/llm_rag_gen_ai_chatbot/main/doc/RAG_Architecture.jpg)
 
 ### Step-by-Step Workflow
 
