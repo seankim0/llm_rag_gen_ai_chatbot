@@ -1,7 +1,7 @@
 # llm_rag_gen_ai_chatbot
 
-> One-liner summary:  
-> A powerful AI ChatBot App that lets you chat with multiple documents using LLM and RAG
+One-liner summary:  
+A powerful AI ChatBot App that lets you chat with multiple documents using LLM and RAG
 
 > **Note:** This is a prototype and not the actual code used in production.
 > **Note:** Please reach out to me (seunghyk@tepper.cmu.edu) if you need full-stack real-world best practice.
